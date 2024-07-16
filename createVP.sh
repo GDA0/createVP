@@ -26,6 +26,3 @@ echo "Using template: $TEMPLATE"
 
 # Create the Vite project
 npm create vite@latest $PROJECT_DIR -- --template $TEMPLATE
-
-# Notify the user of completion
-echo "Vite project created successfully."
